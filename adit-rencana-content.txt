@@ -7,5 +7,6 @@ Rencana KONTEN ADIT
     ^React
 -PHP Framework
   ^Laravel
--Interview
+-Intrview
 -Vlogs
+-Python
