@@ -3,6 +3,7 @@ Rencana KONTEN ADIT
 -Javascript
   * ES6
   * Framework Javascript
+-Struktur Data Dasar
 -PHP Framework
 -Interview
 -Vlogs
