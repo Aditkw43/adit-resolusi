@@ -3,11 +3,10 @@ Rencana KONTEN ADIT
 -Javascript
   * ES6
   * Framework Javascript
-    ^Vue
+    ^Angular
     ^React
--Struktur Data Dasar
 -PHP Framework
- ^Laravel
--Interview
+  ^Laravel
+-Intrview
 -Vlogs
 -Python
